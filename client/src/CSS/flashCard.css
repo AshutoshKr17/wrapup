@@ -25,13 +25,13 @@ h2 {
   
   .card {
     border: 2px solid red;
-    width: 150px;
-    height: 75px;
+    width: 500px;
+    height: 205px;
     background: black;
   }
   
   .scrolling-wrapper, .scrolling-wrapper-flexbox {
-    height: 80px;
+    height: 205px;
     margin-bottom: 20px;
     width: 100%;
     -webkit-overflow-scrolling: touch;
